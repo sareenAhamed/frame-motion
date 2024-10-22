@@ -21,6 +21,7 @@ function App() {
       <h2>Text 2</h2>
       <h2>Text 3</h2>
       <h2>Text 4</h2>
+      
     </motion.div>
       
       
